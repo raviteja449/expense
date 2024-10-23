@@ -116,7 +116,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the  Apache License Version 2.0 - see the [LICENSE](LICENSE) file for details.
 ```
 
 This README provides a clear overview of the project, objectives, features, and steps to get started, making it suitable for a GitHub repository.
