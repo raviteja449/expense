@@ -1,6 +1,3 @@
-Here’s a README.md file formatted for GitHub:
-
-
 # Personal Expense Tracker
 
 ## Description
